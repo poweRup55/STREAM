@@ -18,6 +18,8 @@ This program does two main functions:
 
 You can see how it looks here: https://yonatankoritny.com/stream
 
+or just fork it see how it looks :)
+
 <h1 align="center">Hi 👋, I'm Yehonatan Koritny</h1>
 <h3 align="center">A passionate Bs.c. graduate from the Hebrew University</h3>
 
