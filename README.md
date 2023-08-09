@@ -1,21 +1,24 @@
+# Stream: Creating Digital Water Art
 
-# Stream
+## Overview
 
-## Digital water
+Stream is a creative Python program that transforms live webcam feed into mesmerizing digital water art. By applying various filters such as Gaussian and Sobel, it generates a captivating watery effect on the camera image. Additionally, it produces a unique sine wave sound that correlates with both the displayed image and the detected camera movements.
 
-### Requirments
-> A web camera
+## Requirements
 
-> **optional:** a projector.
+- **Web Camera**
+- *Optional:* Projector for enhanced visual experience
 
-#### Written in: Python
+## Features
 
-#### Tools used: pyaduio, opencv2, ndimage, imutils, numpy, threading
+- Real-time webcam image processing
+- Application of Gaussian, Sobel, and other filters for a distinctive watery appearance
+- Generation of a dynamic sine wave sound based on the displayed image and camera motion
+- Easy-to-use and customize for art and experimentation
 
-This program does two main functions:
-1. it pulls an image from the web camera and makes it "watery" using guassian, sobel and other filters.
-1. it makes a unique sine wave sound that is a fuction of the shown image and the movment seen from the camera.
+## Technologies Used
 
-You can see how it looks here: https://yonatankoritny.com/stream
+- Python
+- Libraries: pyaudio, opencv2, ndimage, imutils, numpy, threading
 
-or just fork it see how it looks :)
+*Inspired by creativity, powered by code.*
